@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+GIT jest rozproszonym systemem kontroli wersji i prawie wszystkie operacje są lokalne
+GIT przechowuje dane jako migawki i tworzy sumy kontrolne przed ich zapisaniem
+=======
+GIT to rozproszony system kontroli wersji
+GIT przechowuje dane jako migawki i tworzy sumy kontrolne
+>>>>>>> task
